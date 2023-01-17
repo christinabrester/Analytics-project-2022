@@ -7,8 +7,9 @@ The code was used to generate the experimental results presented at the 27th Int
 <br>by Christina Brester(1), Antti Hildén(2), Mikko Kolehmainen(1), Pertti Pakonen(2), Harri Niska(1)
 <br>(1) – University of Eastern Finland – Finland
 <br>(2) – Tampere University – Finland
-
 <br>
+<br>
+![image](https://user-images.githubusercontent.com/23052531/212910285-4853e9d0-6b67-4ccb-969d-a02e32c028f5.png)
 <br>
 In the article, we have introduced two scenarios for load control detection: supervised and unsupervised. In each scenario, we have tested four different sets of inputs: first three include only measurement data (power and power quality), whereas the last one has been generated using the MLP-based feature engineering. The source code consists of the following parts: 
 <br>1 - <b>MLP_nowcasting.py</b> used to train a number of MLPs with different architectures that nowcast power quality variables;
