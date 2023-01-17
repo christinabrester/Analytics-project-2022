@@ -1,5 +1,5 @@
 # Analytics-project-2022
-Load control detection using power quality data
+<b>Load control detection using power quality data</b>
 
 The code was used to generate the experimental results presented at 27th International Conference on Electricity Distribution, CIRED 2023: 
 AUTOMATED LOAD CONTROL DETECTION USING POWER QUALITY DATA AND MACHINE LEARNING
