@@ -1,2 +1,2 @@
 # Analytics-project-2022
-AUTOMATED LOAD CONTROL DETECTION USING POWER QUALITY DATA AND MACHINE LEARNING
+Load control detection using power quality data
